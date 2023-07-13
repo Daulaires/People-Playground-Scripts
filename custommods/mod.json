@@ -1,0 +1,16 @@
+{
+  "Name": "Easy Stabby",
+  "Author": "Constellation",
+  "Description": "Please add details about your mod here.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.21+",
+  "ThumbnailPath": "knife.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
